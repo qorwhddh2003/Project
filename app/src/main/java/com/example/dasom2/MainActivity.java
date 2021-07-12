@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         rdoRabbit = findViewById(R.id.RdoRabbit);
         btnOK = findViewById(R.id.BtnOK);
         imgPet = findViewById(R.id.ImgPet);
+        
 
         chkAgree.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
